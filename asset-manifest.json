@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/DoesItZipf/static/css/main.5590c7a5.css",
+    "main.css": "/DoesItZipf/static/css/main.0c91d3ac.css",
     "main.js": "/DoesItZipf/static/js/main.902e5c15.js",
     "static/js/787.bcb4e7ac.chunk.js": "/DoesItZipf/static/js/787.bcb4e7ac.chunk.js",
     "index.html": "/DoesItZipf/index.html",
-    "main.5590c7a5.css.map": "/DoesItZipf/static/css/main.5590c7a5.css.map",
+    "main.0c91d3ac.css.map": "/DoesItZipf/static/css/main.0c91d3ac.css.map",
     "main.902e5c15.js.map": "/DoesItZipf/static/js/main.902e5c15.js.map",
     "787.bcb4e7ac.chunk.js.map": "/DoesItZipf/static/js/787.bcb4e7ac.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.5590c7a5.css",
+    "static/css/main.0c91d3ac.css",
     "static/js/main.902e5c15.js"
   ]
 }
