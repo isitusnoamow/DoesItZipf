@@ -1,5 +1,8 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100;300;400;500;700;900&display=swap');
+
 .App {
   text-align: center;
+  font-family: 'Roboto', sans-serif;
 }
 
 .App-logo {
@@ -14,7 +17,7 @@
 }
 
 .App-header {
-  background-color: #282c34;
+  background: #09295A;
   min-height: 100vh;
   display: flex;
   flex-direction: column;
@@ -36,3 +39,66 @@
     transform: rotate(360deg);
   }
 }
+
+textarea{
+  width: 62rem;
+  background-color: #0F2133;
+  color:white;
+  height: 24.8rem;
+  border-radius: 1rem;
+  border: 3px solid #0F2133;
+  padding: 0px;
+  padding: 1rem 1rem;
+  outline: none;
+  resize: none;
+  font-family: 'Roboto', sans-serif;
+  font-size: 1.5rem;
+}
+
+p{
+  margin-block-start: 0;
+}
+
+textarea:focus {
+  border: 3px solid rgb(58, 203, 255);
+}
+
+.graphArea{
+  margin-top: 1rem;
+  background-color: #0F2133;
+  border-radius: 0.5rem;
+}
+
+h1 {
+  margin-block-end: 0;
+  margin-block-start: 0.2rem;  
+  background: -webkit-linear-gradient(rgb(239, 195, 0), rgb(250, 113, 113));
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+a{
+  color: #61dafb;
+}
+
+.lnGraph {
+  font-size: 1rem;
+}
+
+h3{
+  margin: 0;
+}
+         
+.btn-grad {
+  background-image: linear-gradient(to right, #FF8008 0%, #FFC837  51%, #FF8008  100%);
+  margin: 10px;
+  font-size: 2rem;
+  padding: 15px 45px;
+  text-align: center;
+  background-size: 200% auto;
+  color: black;            
+  font-family: 'Roboto', sans-serif;
+  border: none;
+  cursor: pointer;
+}
+
